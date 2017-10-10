@@ -23,6 +23,6 @@ public class MyCustomLinearLayoutView extends LinearLayout {
         initView(context);
     }
     private void initView(Context context){
-        View inflate = inflate(context, R.layout.linearlayout_view, this);
+        View inflate = inflate(context, R.layout.linearlayout_view,this);
     }
 }
