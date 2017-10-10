@@ -1,4 +1,4 @@
-package com.hgz.test.customcircle.custom;
+package com.hgz.test.custonroundedrectangle.custom;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapShader;

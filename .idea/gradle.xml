@@ -11,6 +11,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/customcircle" />
             <option value="$PROJECT_DIR$/customprogress" />
+            <option value="$PROJECT_DIR$/customrectangle" />
+            <option value="$PROJECT_DIR$/custonroundedrectangle" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
