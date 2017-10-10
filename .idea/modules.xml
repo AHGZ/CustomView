@@ -5,8 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/CustomView.iml" filepath="$PROJECT_DIR$/CustomView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/customcircle/customcircle.iml" filepath="$PROJECT_DIR$/customcircle/customcircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customheartshaped/customheartshaped.iml" filepath="$PROJECT_DIR$/customheartshaped/customheartshaped.iml" />
       <module fileurl="file://$PROJECT_DIR$/customprogress/customprogress.iml" filepath="$PROJECT_DIR$/customprogress/customprogress.iml" />
       <module fileurl="file://$PROJECT_DIR$/customrectangle/customrectangle.iml" filepath="$PROJECT_DIR$/customrectangle/customrectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customtriangle/customtriangle.iml" filepath="$PROJECT_DIR$/customtriangle/customtriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customwaterripple/customwaterripple.iml" filepath="$PROJECT_DIR$/customwaterripple/customwaterripple.iml" />
       <module fileurl="file://$PROJECT_DIR$/custonroundedrectangle/custonroundedrectangle.iml" filepath="$PROJECT_DIR$/custonroundedrectangle/custonroundedrectangle.iml" />
     </modules>
   </component>

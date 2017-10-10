@@ -1,1 +1,1 @@
-include ':app', ':customcircle', ':customprogress', ':custonroundedrectangle', ':customrectangle'
+include ':app', ':customcircle', ':customprogress', ':custonroundedrectangle', ':customrectangle', ':customwaterripple', ':customtriangle', ':customheartshaped'
