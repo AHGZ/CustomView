@@ -1,1 +1,1 @@
-include ':app', ':customcircle', ':customprogress', ':custonroundedrectangle', ':customrectangle', ':customwaterripple', ':customtriangle', ':customheartshaped'
+include ':app', ':customcircle', ':customprogress', ':custonroundedrectangle', ':customrectangle', ':customwaterripple', ':customtriangle', ':customheartshaped', ':onmeasure(重写onmeasure动态改变)', ':onlayout(重写onlayout自定义环形布局)', ':ondraw'

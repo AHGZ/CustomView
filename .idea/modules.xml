@@ -11,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/customtriangle/customtriangle.iml" filepath="$PROJECT_DIR$/customtriangle/customtriangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/customwaterripple/customwaterripple.iml" filepath="$PROJECT_DIR$/customwaterripple/customwaterripple.iml" />
       <module fileurl="file://$PROJECT_DIR$/custonroundedrectangle/custonroundedrectangle.iml" filepath="$PROJECT_DIR$/custonroundedrectangle/custonroundedrectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ondraw/ondraw.iml" filepath="$PROJECT_DIR$/ondraw/ondraw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onlayout(重写onlayout自定义环形布局)/onlayout(重写onlayout自定义环形布局).iml" filepath="$PROJECT_DIR$/onlayout(重写onlayout自定义环形布局)/onlayout(重写onlayout自定义环形布局).iml" />
+      <module fileurl="file://$PROJECT_DIR$/onmeasure(重写onmeasure动态改变)/onmeasure(重写onmeasure动态改变).iml" filepath="$PROJECT_DIR$/onmeasure(重写onmeasure动态改变)/onmeasure(重写onmeasure动态改变).iml" />
     </modules>
   </component>
 </project>

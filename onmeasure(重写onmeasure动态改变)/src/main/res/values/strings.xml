@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">OnMeasure(重写onMeasure动态改变View大小)</string>
+</resources>

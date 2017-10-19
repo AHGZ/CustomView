@@ -16,6 +16,9 @@
             <option value="$PROJECT_DIR$/customtriangle" />
             <option value="$PROJECT_DIR$/customwaterripple" />
             <option value="$PROJECT_DIR$/custonroundedrectangle" />
+            <option value="$PROJECT_DIR$/ondraw" />
+            <option value="$PROJECT_DIR$/onlayout(重写onlayout自定义环形布局)" />
+            <option value="$PROJECT_DIR$/onmeasure(重写onmeasure动态改变)" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
